@@ -1,17 +1,3 @@
----
-title: "Visual interface example #1: regression to predict price"
-titleSuffix: Azure Machine Learning service
-description: Learn how to build a machine learning model to predict an automobile's price without writing a single line of code.
-services: machine-learning
-ms.service: machine-learning
-ms.subservice: core
-ms.topic: conceptual
-author: xiaoharper
-ms.author: zhanxia
-ms.reviewer: sgilley
-ms.date: 05/10/2019
----
-
 # Sample 1 - Regression: Predict price
 
 Learn how to build a machine learning regression model without writing a single line of code using the visual interface.
