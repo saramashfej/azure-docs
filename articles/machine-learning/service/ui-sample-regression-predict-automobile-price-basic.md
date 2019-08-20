@@ -55,9 +55,6 @@ We then pass the scores to the **Evaluate Model** module to generate evaluation 
 
 ![Evaluate result](./media/ui-sample-regression-predict-automobile-price-basic/evaluate-result.png)
 
-## Clean up resources
-
-[!INCLUDE [aml-ui-cleanup](../../../includes/aml-ui-cleanup.md)]
 
 ## Next steps
 
