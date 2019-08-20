@@ -1,17 +1,3 @@
----
-title: 'Tutorial: Predict automobile price with the visual interface'
-titleSuffix: Azure Machine Learning service
-description: Learn how to train, score, and deploy a machine learning model using a drag and drop visual interface. This tutorial is part one of a two-part series on predicting automobile prices using linear regression.
-
-author: peterclu
-ms.author: peterlu
-services: machine-learning
-ms.service: machine-learning
-ms.subservice: core
-ms.topic: tutorial
-ms.date: 07/21/2019
----
-
 # Tutorial: Predict automobile price with the visual interface
 
 In this two-part tutorial, you learn how to use the Azure Machine Learning service visual interface to develop and deploy a predictive analytic solution that predicts the price of any car. 
